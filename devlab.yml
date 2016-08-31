@@ -1,0 +1,5 @@
+from: jekyll/jekyll:pages
+expose:
+  - 4000:4000
+tasks:
+  serve: jekyll serve
