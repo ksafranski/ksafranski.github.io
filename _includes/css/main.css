@@ -508,3 +508,7 @@ footer .footer-below {
 .footer-contact-link:hover {
     text-decoration: none;
 }
+
+.btn-primary {
+    margin: 1.5rem 0;
+}
