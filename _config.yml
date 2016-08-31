@@ -1,14 +1,14 @@
 # Site settings
 title: Kent Safranski
 email: kent@fluidbyte.net
-url: http://fluidbyte.net
+url: https://fluidbyte.github.io
 description: "Web and Software Architect, Developer, and Designer from Onalaska, Wisconsin"
 skills: "Architecture - Engineering - Leadership"
 meta_author: Safranski Kent
 tagline: "Web Software Design + Development, La Crosse / Onalaska Wisconsin"
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
